@@ -1,0 +1,20 @@
+﻿using System;
+
+// Token: 0x02000BAA RID: 2986
+public enum NECK_LOOK_TYPE_VER3
+{
+	// Token: 0x040051E2 RID: 20962
+	ANIMATION,
+	// Token: 0x040051E3 RID: 20963
+	TARGET,
+	// Token: 0x040051E4 RID: 20964
+	AWAY,
+	// Token: 0x040051E5 RID: 20965
+	FORWARD,
+	// Token: 0x040051E6 RID: 20966
+	FIX,
+	// Token: 0x040051E7 RID: 20967
+	CONTROL,
+	// Token: 0x040051E8 RID: 20968
+	NONE
+}

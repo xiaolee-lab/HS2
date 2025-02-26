@@ -1,0 +1,71 @@
+﻿using System;
+
+namespace AIProject
+{
+	// Token: 0x02000FAB RID: 4011
+	public enum MapUIActionCategory
+	{
+		// Token: 0x04006BED RID: 27629
+		ALL,
+		// Token: 0x04006BEE RID: 27630
+		WARP_POINT,
+		// Token: 0x04006BEF RID: 27631
+		HEROIN,
+		// Token: 0x04006BF0 RID: 27632
+		SHOP,
+		// Token: 0x04006BF1 RID: 27633
+		COOK,
+		// Token: 0x04006BF2 RID: 27634
+		BED,
+		// Token: 0x04006BF3 RID: 27635
+		TOILET,
+		// Token: 0x04006BF4 RID: 27636
+		BATH,
+		// Token: 0x04006BF5 RID: 27637
+		SHOWER,
+		// Token: 0x04006BF6 RID: 27638
+		CHAIR,
+		// Token: 0x04006BF7 RID: 27639
+		DESK,
+		// Token: 0x04006BF8 RID: 27640
+		GLOVE,
+		// Token: 0x04006BF9 RID: 27641
+		PICKEL,
+		// Token: 0x04006BFA RID: 27642
+		SHOVEL,
+		// Token: 0x04006BFB RID: 27643
+		NET,
+		// Token: 0x04006BFC RID: 27644
+		DRESSER,
+		// Token: 0x04006BFD RID: 27645
+		STORAGE,
+		// Token: 0x04006BFE RID: 27646
+		CLOTHET,
+		// Token: 0x04006BFF RID: 27647
+		CLOTHETBOX,
+		// Token: 0x04006C00 RID: 27648
+		FARM,
+		// Token: 0x04006C01 RID: 27649
+		PET,
+		// Token: 0x04006C02 RID: 27650
+		WATERPET,
+		// Token: 0x04006C03 RID: 27651
+		CHICKENHOUSE,
+		// Token: 0x04006C04 RID: 27652
+		PETUNION,
+		// Token: 0x04006C05 RID: 27653
+		DRAGDESK,
+		// Token: 0x04006C06 RID: 27654
+		MUSIC,
+		// Token: 0x04006C07 RID: 27655
+		H,
+		// Token: 0x04006C08 RID: 27656
+		WARP,
+		// Token: 0x04006C09 RID: 27657
+		RECYCLE,
+		// Token: 0x04006C0A RID: 27658
+		HARBOR,
+		// Token: 0x04006C0B RID: 27659
+		MAX_COUNT
+	}
+}

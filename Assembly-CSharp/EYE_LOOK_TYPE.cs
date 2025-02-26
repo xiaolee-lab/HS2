@@ -1,0 +1,16 @@
+﻿using System;
+
+// Token: 0x020010DC RID: 4316
+public enum EYE_LOOK_TYPE
+{
+	// Token: 0x040073FD RID: 29693
+	NO_LOOK,
+	// Token: 0x040073FE RID: 29694
+	TARGET,
+	// Token: 0x040073FF RID: 29695
+	AWAY,
+	// Token: 0x04007400 RID: 29696
+	FORWARD,
+	// Token: 0x04007401 RID: 29697
+	CONTROL
+}
